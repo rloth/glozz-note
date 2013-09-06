@@ -86,11 +86,11 @@ listing
 Le format listing est approprié pour un premier aperçu des résultats de
 l'annotation. Chaque unité est présentée sous la forme :
 
-    \[sonType\]--{sesAttributs}--@(début..fin)
-         << ligne_de_texte_1
-         << ligne_de_texte_2
-         << ligne_de_texte_3
-         << ligne_de_texte_4 >>
+        [sonType]--{sesAttributs}--@(début..fin)
+          << ligne_de_texte_1
+          << ligne_de_texte_2
+          << ligne_de_texte_3
+          << ligne_de_texte_4 >>
 
 Une indentation des unités indique la profondeur d'imbrication.
 
@@ -138,7 +138,7 @@ reportés comme attributs de l'élément. Le segment textuel correspondant
 Ce mélange de texte et d'éléments rend le format pour l'instant non
 conforme aux normes XML... correction bientôt.
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
- version: 0.4 (18/12/2009)            contact: rloth at u-paris10 dot fr
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
-   copyright 2009 laboratoire MoDyCo (UMR 7114 CNRS/Paris 10 Nanterre)
+        = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+         version: 0.4 (18/12/2009)        contact: rloth at u-paris10 dot fr
+        = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+         copyright 2009 laboratoire MoDyCo (UMR 7114 CNRS/Paris 10 Nanterre)
